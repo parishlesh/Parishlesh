@@ -11,7 +11,39 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Parishlesh%20Fulvanshi&fontSize=40&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Parishlesh&fontSize=40&fontColor=ffffff&animation=fadeIn"
     width="100%"
   />
 </p>
+
+
+## 👨‍💻 About Me
+
+```yaml
+name: Parishlesh
+role: Software Developer
+location: India
+
+currently_working_on:
+  - Full Stack Web Applications
+  - React.js and Next.js Projects
+  - Backend APIs and System Architecture
+
+currently_learning:
+  - .NET and C#
+  - Advanced System Design
+
+tech_interests:
+  - Full Stack Development
+  - DevOps and Docker
+  - Real-Time Applications
+  - Open Source
+
+hobbies:
+  - Drawing and Sketching
+  - Traveling
+  - Reading
+  - Movies and Series
+
+motto: "Build. Learn. Improve. Repeat."
+```
