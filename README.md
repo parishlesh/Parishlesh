@@ -95,10 +95,10 @@ motto: "Build. Learn. Improve. Repeat."
       srcset="https://raw.githubusercontent.com/parishlesh/parishlesh/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/parishlesh/parishlesh/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
+    src="https://raw.githubusercontent.com/parishlesh/parishlesh/output/github-contribution-grid-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake - Dark Mode"
+  />
   </picture>
 </p>
 
