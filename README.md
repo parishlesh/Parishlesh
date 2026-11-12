@@ -83,10 +83,13 @@ motto: "Build. Learn. Improve. Repeat."
 
 ## 🐍 My Contributions
 
-![Dark Contribution Snake](https://raw.githubusercontent.com/parishlesh/parishlesh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-![Light Contribution Snake](https://raw.githubusercontent.com/parishlesh/parishlesh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/parishlesh/parishlesh/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
 
 
