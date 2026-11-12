@@ -65,3 +65,26 @@ motto: "Build. Learn. Improve. Repeat."
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,postman,vercel" />
 </p>
+
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Parishlesh&show_icons=true&theme=tokyonight&rank_icon=github"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Parishlesh&layout=compact&theme=tokyonight"
+    height="165"
+  />
+</p>
+
+
+
+
+
+
+
+
+
